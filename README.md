@@ -15,4 +15,4 @@
  # Commands:
  
  sm_refreshspeed	"Refresh the player speed settings"
- sm_rts				"Refresh the player speed settings"
+ sm_rts	"Refresh the player speed settings"
